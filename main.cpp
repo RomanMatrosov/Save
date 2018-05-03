@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// the programm is created for studying
 int main()
 {
   int a, b;
