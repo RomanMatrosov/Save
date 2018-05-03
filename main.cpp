@@ -7,6 +7,7 @@ int main()
   scanf("%d\n%d", &a, &b);
   printf("a+b=%d", a+b);
   printf("\na-b=%d\n", a-b);
+  printf("\na/b=%d", a/b);
 
 	return 0;
 }
